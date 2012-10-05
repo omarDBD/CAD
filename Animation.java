@@ -11,6 +11,7 @@ import static org.lwjgl.opengl.GL11.*;
 import org.lwjgl.opengl.Display;
 import java.io.*;
 import java.util.Scanner;
+//cad java
 
 public class Animation extends Visible
 {
